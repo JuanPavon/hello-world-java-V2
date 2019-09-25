@@ -1,2 +1,3 @@
-# hello-world-java-V2
-It is my second repository
+# Hello world with java
+
+This is a simple **"Hello world"** done with **Java** programming language
