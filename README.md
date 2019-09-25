@@ -1,3 +1,3 @@
-# Hello world with java
+# Average with java
 
-This is a simple **"Hello world"** done with **Java** programming language
+This is a simple programe which calculate the **average** done with **Java** programming language
